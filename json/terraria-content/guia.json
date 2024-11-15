@@ -1,0 +1,161 @@
+{
+    "pagina": {
+      "nombre": "Guías de Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-guia",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a las Guías"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Esta es la sección de las guías, aqui encontrarás guías para saber como empezar en el juego e ir avanzando, elegir y saber que necesita tu class y como conseguir los logros"
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "ruta/a/imagen.jpg",
+              "alt": "Imagen principal del juego"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "guia-categorias",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Guías por Categorías"
+            },
+            {
+              "tipo": "div",
+              "class": "categoria-guia",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Guía para Principiantes"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "En esta gu a se ense a desde lo b sico hasta entrar en el \"hardmode\", se enseña sobre boses, enemigos, estrategias..."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-guia",
+                  "src": "ruta/a/imagen1.jpg",
+                  "alt": "Capturas de pantalla del primer día"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "categoria-guia",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Guía de Clases"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "En este apartado se enseña sobre las clases, que armas se puede obtener en cada momento y cual es mejor en cada momento."
+                },
+                {
+                  "tipo": "div",
+                  "class": "",
+                  "contenido": [
+                    {
+                      
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "consejos-trucos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Consejos y Trucos"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Aquí tienes algunos consejos que te ayudarán a mejorar tu rendimiento en Terraria. Desde cómo minar de manera eficiente hasta estrategias para sobrevivir en el Infierno."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-infografia",
+              "src": "ruta/a/infografia.jpg",
+              "alt": "Mini guías visuales"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "videos-tutoriales",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Videos Tutoriales"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "¿Prefieres aprender viendo? Aquí te ofrecemos videos tutoriales que te enseñarán cómo completar desafíos, derrotar a jefes y obtener objetos raros."
+            },
+            {
+              "tipo": "iframe",
+              "class": "video-tutorial",
+              "src": "https://www.youtube.com/embed/video1",
+              "frameborder": "0",
+              "allowfullscreen": "true"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "tabla-recursos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Tabla de Recursos"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Conoce todos los recursos disponibles en Terraria. Desde metales preciosos hasta hierbas curativas, aquí tienes una lista completa de todo lo que puedes recolectar."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-recursos",
+              "src": "ruta/a/imagen-recursos.jpg",
+              "alt": "Imágenes de recursos clave"
+            },
+            {
+              "tipo": "img",
+              "class": "infografia-recursos",
+              "src": "ruta/a/diagrama-recursos.jpg",
+              "alt": "Diagrama visual de recursos"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

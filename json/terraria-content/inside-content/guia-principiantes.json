@@ -1,0 +1,54 @@
+{
+    "pagina": {
+        "nombre": "Guías de Terraria",
+        "contenido": [
+        {
+            "tipo": "section",
+            "clase": "introduccion-guia",
+            "contenido": [
+                {
+                "tipo": "h2",
+                "clase": "titulo",
+                "contenido": "Introducción a las Guías"
+                },
+                {
+                "tipo": "p",
+                "clase": "texto",
+                "contenido": "Bienvenidos a la sección de Guías de Terraria. Aquí encontrarás toda la información que necesitas para avanzar en tu aventura, desde los primeros pasos hasta derrotar a los jefes más poderosos. ¡Explora biomas, consigue recursos raros, y domina las estrategias que te ayudarán a convertirte en un verdadero experto en Terraria!"
+                },
+                {
+                "tipo": "img",
+                "clase": "imagen-banner",
+                "src": "ruta/a/imagen.jpg",
+                "alt": "Imagen principal del juego"
+                }
+            ]
+        },
+        {
+            "tipo": "section",
+            "clase": "guia-principiantes",
+            "contenido": [
+                {
+                "tipo": "h2",
+                "clase": "titulo",
+                "contenido": "Guía de Principiantes"
+                },
+                {
+                "tipo": "p",
+                "clase": "texto",
+                "contenido": "¿Eres nuevo en Terraria? Esta guía te ayudará a comenzar. Aprende a crear tu primer mundo, recolectar recursos esenciales y construir tu primer refugio."
+                },
+                {
+                "tipo": "img",
+                "clase": "imagen-guia",
+                "src": "ruta/a/imagen1.jpg",
+                "alt": "Capturas de pantalla del primer día"
+                }
+            ]
+        },
+        {
+            
+        }
+      ]
+    }
+}
