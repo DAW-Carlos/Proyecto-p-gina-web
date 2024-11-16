@@ -1,0 +1,210 @@
+{
+    "pagina": {
+      "nombre": "Bloques en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "bloques",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Bloques Comunes"
+            },
+            {
+              "tipo": "div",
+              "class": "bloques-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Un bloque básico que se obtiene de los árboles. Se utiliza para fabricar herramientas y construcciones."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Se obtiene talando árboles." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Fabricación de tablas, antorchas, muebles, y estructuras básicas."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Piedra"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Un bloque común que se obtiene al romper rocas. Es duradero y esencial para la construcción."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Se obtiene rompiendo rocas o usando una picota." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Fabricación de ladrillos, hornos, y herramientas mejoradas."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Lodo"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Un bloque blando y poco resistente, que puede encontrarse en biomas subterráneos."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Se obtiene de los biomas subterráneos, especialmente en las zonas de pantano." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Comúnmente utilizado para crear el terreno, pero también es útil para la fabricación de algunos objetos decorativos."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "bloques",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Bloques de Construcción"
+            },
+            {
+              "tipo": "div",
+              "class": "bloques-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Ladrillo de Piedra"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Hecho con piedra, es más resistente que la piedra común y se utiliza en muchas construcciones."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Se obtiene combinando 3 piedras en la mesa de trabajo." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Ideal para construir edificios duraderos y estéticamente agradables."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Bloque de Madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Un bloque de madera que se utiliza principalmente en la construcción de casas y estructuras."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecho con 4 piezas de madera." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Usado en la fabricación de casas, muebles y objetos decorativos."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "bloque-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-bloque",
+                      "contenido": "Bloque de Arena"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-bloque",
+                      "contenido": "Un bloque frágil que se encuentra comúnmente en las playas y desiertos."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-bloque",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Se obtiene cavando en áreas de arena." }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "usos-bloque",
+                      "contenido": "Usos: Se puede usar para fabricar vidrio o en la construcción de estructuras simples."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

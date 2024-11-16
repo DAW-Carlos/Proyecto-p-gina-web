@@ -1,0 +1,223 @@
+{
+    "pagina": {
+      "nombre": "Guía de Pesca en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-pesca",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a la Pesca"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "La pesca es una mecánica de Terraria que permite obtener peces, cofres y objetos especiales. Aquí aprenderás dónde y cómo pescar, qué equipo utilizar y las recompensas que puedes obtener en cada bioma."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/fishing-page/terraria-fishing.jpg",
+              "alt": "Imagen de pesca en Terraria"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "biomas-pesca",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Biomas para Pescar"
+            },
+            {
+              "tipo": "div",
+              "class": "bioma-pesca",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Bosque"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El bioma de bosque permite capturar peces básicos y algunas especies raras que se pueden utilizar en pociones."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma-pesca",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Océano"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Aquí puedes pescar peces especiales y cofres con recompensas exclusivas."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma-pesca",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Selva"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La selva ofrece peces únicos necesarios para pociones poderosas y otros objetos valiosos."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma-pesca",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Cráter Infernal"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Un bioma peligroso donde puedes obtener peces raros y objetos valiosos como el \"Obsidifish\"."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "equipo-pesca",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Equipo para Pescar"
+            },
+            {
+              "tipo": "div",
+              "class": "equipo-item",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Caña de Pescar Básica"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La caña de pescar básica se puede conseguir al inicio y es suficiente para los primeros intentos de pesca."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "equipo-item",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Caña de Pescar Reforzada"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Tiene una mayor potencia de pesca, lo que permite capturar peces raros más fácilmente."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "equipo-item",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Cebo Especial"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Los cebos mejoran las probabilidades de captura y pueden aumentar las recompensas obtenidas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "recompensas-pesca",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Recompensas y Objetos Únicos"
+            },
+            {
+              "tipo": "div",
+              "class": "recompensa",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Cofres de Pesca"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Los cofres de pesca pueden contener objetos raros, como pociones, monedas y equipo especial."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "recompensa",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Peces Raros"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Algunos peces raros pueden ser utilizados para hacer pociones especiales o cumplir misiones de pesca."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "recompensa",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Misiones de Pesca"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Completando misiones de pesca, obtendrás recompensas únicas, como accesorios o cañas de pescar avanzadas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

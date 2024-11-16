@@ -1,0 +1,296 @@
+{
+    "pagina": {
+      "nombre": "Guía de NPCs en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-npcs",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a los NPCs"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Los NPCs (personajes no jugables) en Terraria son personajes que pueden vivir en tu aldea y ofrecer diversos servicios. Cada uno tiene sus preferencias de ubicación y llega solo cuando se cumplen ciertos requisitos."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/npcs-page/terraria-npcs.jpg",
+              "alt": "Imagen de NPCs en Terraria"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "lista-npcs",
+          "contenido": [
+            {
+              "tipo": "div",
+              "class": "npc",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "nombre-npc",
+                  "contenido": "Guía"
+                },
+                {
+                  "tipo": "table",
+                  "class": "info-npc",
+                  "contenido": [
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Lugar Favorito" },
+                        { "tipo": "td", "contenido": "Bosque" }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Función" },
+                        { "tipo": "td", "contenido": "Brinda consejos y ayuda para comenzar el juego." }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Requisitos" },
+                        { "tipo": "td", "contenido": "El Guía llega automáticamente al inicio del juego." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "ul",
+                  "class": "servicios",
+                  "contenido": [
+                    { "tipo": "li", "contenido": "Asesoramiento sobre recetas." },
+                    { "tipo": "li", "contenido": "Información sobre jefes y enemigos." }
+                  ]
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-npc",
+                  "src": "../imgs/content/npcs-page/guide.jpg",
+                  "alt": "Imagen del NPC Guía"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "npc",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "nombre-npc",
+                  "contenido": "Comerciante"
+                },
+                {
+                  "tipo": "table",
+                  "class": "info-npc",
+                  "contenido": [
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Lugar Favorito" },
+                        { "tipo": "td", "contenido": "Bosque" }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Función" },
+                        { "tipo": "td", "contenido": "Vende suministros básicos como antorchas y pociones." }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Requisitos" },
+                        { "tipo": "td", "contenido": "Se necesitan al menos 50 monedas de plata en el inventario del jugador." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "ul",
+                  "class": "servicios",
+                  "contenido": [
+                    { "tipo": "li", "contenido": "Venta de artículos básicos y suministros iniciales." },
+                    { "tipo": "li", "contenido": "Compra de objetos al jugador para obtener monedas." }
+                  ]
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-npc",
+                  "src": "../imgs/content/npcs-page/merchant.jpg",
+                  "alt": "Imagen del NPC Comerciante"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "npc",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "nombre-npc",
+                  "contenido": "Enfermera"
+                },
+                {
+                  "tipo": "table",
+                  "class": "info-npc",
+                  "contenido": [
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Lugar Favorito" },
+                        { "tipo": "td", "contenido": "Bosque" }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Función" },
+                        { "tipo": "td", "contenido": "Cura al jugador y elimina efectos de veneno y quemaduras." }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Requisitos" },
+                        { "tipo": "td", "contenido": "El Comerciante ya debe estar en la aldea y el jugador debe tener al menos 120 de salud." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "ul",
+                  "class": "servicios",
+                  "contenido": [
+                    { "tipo": "li", "contenido": "Cura al jugador a cambio de monedas." },
+                    { "tipo": "li", "contenido": "Elimina efectos negativos (como envenenamiento)." }
+                  ]
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-npc",
+                  "src": "../imgs/content/npcs-page/nurse.jpg",
+                  "alt": "Imagen del NPC Enfermera"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "npc",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "nombre-npc",
+                  "contenido": "Demolicionista"
+                },
+                {
+                  "tipo": "table",
+                  "class": "info-npc",
+                  "contenido": [
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Lugar Favorito" },
+                        { "tipo": "td", "contenido": "Subterráneo" }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Función" },
+                        { "tipo": "td", "contenido": "Vende explosivos útiles para minería y combate." }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Requisitos" },
+                        { "tipo": "td", "contenido": "El jugador debe tener al menos una bomba en su inventario." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "ul",
+                  "class": "servicios",
+                  "contenido": [
+                    { "tipo": "li", "contenido": "Venta de explosivos para minería y combate." },
+                    { "tipo": "li", "contenido": "Ofrece bombas, dinamitas y granadas." }
+                  ]
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-npc",
+                  "src": "../imgs/content/npcs-page/demolitionist.jpg",
+                  "alt": "Imagen del NPC Demolicionista"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "npc",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "nombre-npc",
+                  "contenido": "Armero"
+                },
+                {
+                  "tipo": "table",
+                  "class": "info-npc",
+                  "contenido": [
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Lugar Favorito" },
+                        { "tipo": "td", "contenido": "Desierto" }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Función" },
+                        { "tipo": "td", "contenido": "Vende armas y municiones de fuego." }
+                      ]
+                    },
+                    {
+                      "tipo": "tr",
+                      "contenido": [
+                        { "tipo": "th", "contenido": "Requisitos" },
+                        { "tipo": "td", "contenido": "El jugador debe poseer una pistola u otra arma de fuego." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "ul",
+                  "class": "servicios",
+                  "contenido": [
+                    { "tipo": "li", "contenido": "Venta de armas de fuego y municiones." },
+                    { "tipo": "li", "contenido": "Ofrece armas como pistolas y balas." }
+                  ]
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-npc",
+                  "src": "../imgs/content/npcs-page/arms-dealer.jpg",
+                  "alt": "Imagen del NPC Armero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

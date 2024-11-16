@@ -1,0 +1,155 @@
+{
+    "pagina": {
+      "nombre": "Trajes en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "trajes",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Trajes en Terraria"
+            },
+            {
+              "tipo": "div",
+              "class": "trajes-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "traje-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-traje",
+                      "contenido": "Traje de Platino"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-traje",
+                      "contenido": "El traje de platino es una de las mejores armaduras de nivel medio en *Terraria*, proporcionando una excelente defensa."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-traje",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Defensa: Alta" },
+                        { "tipo": "li", "contenido": "Materiales: Platino" },
+                        { "tipo": "li", "contenido": "Aparece: En el mundo normal al procesar el mineral de platino." },
+                        { "tipo": "li", "contenido": "Requiere: Fundición para crear." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "traje-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-traje",
+                      "contenido": "Traje de Cobre"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-traje",
+                      "contenido": "El traje de cobre es una armadura básica, ideal para los primeros pasos en el juego."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-traje",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Defensa: Baja" },
+                        { "tipo": "li", "contenido": "Materiales: Cobre" },
+                        { "tipo": "li", "contenido": "Aparece: En el mundo normal con la minería de cobre." },
+                        { "tipo": "li", "contenido": "Requiere: Fundición para crear." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "traje-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-traje",
+                      "contenido": "Traje de Adamantium"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-traje",
+                      "contenido": "El traje de adamantium es una armadura avanzada, otorgando una alta defensa y propiedades especiales."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-traje",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Defensa: Muy alta" },
+                        { "tipo": "li", "contenido": "Materiales: Adamantium" },
+                        { "tipo": "li", "contenido": "Aparece: En el bioma subterráneo de alta profundidad." },
+                        { "tipo": "li", "contenido": "Requiere: Fundición avanzada." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "traje-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-traje",
+                      "contenido": "Traje de Hallow"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-traje",
+                      "contenido": "El traje de Hallow es una armadura especial del bioma Hallow, brindando una defensa elevada y resistencia contra varios tipos de daño."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-traje",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Defensa: Alta" },
+                        { "tipo": "li", "contenido": "Materiales: Hallowed Bars" },
+                        { "tipo": "li", "contenido": "Aparece: En el bioma Hallow." },
+                        { "tipo": "li", "contenido": "Requiere: Fundición para crear." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "traje-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-traje",
+                      "contenido": "Traje de Terraprisma"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-traje",
+                      "contenido": "Un traje legendario que proporciona no solo gran defensa, sino también un bonus para invocar y conjurar."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-traje",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Defensa: Excepcional" },
+                        { "tipo": "li", "contenido": "Materiales: Terraprisma" },
+                        { "tipo": "li", "contenido": "Aparece: En el bioma del Corruption, después de derrotar al jefe final." },
+                        { "tipo": "li", "contenido": "Requiere: Conjuro especial para obtener." }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,116 @@
+{
+    "pagina": {
+      "nombre": "Armas en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "armas-invocador",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armas de Invocador"
+            },
+            {
+              "tipo": "ul",
+              "class": "lista-armas",
+              "contenido": [
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Baba (Slime Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Avispa (Hornet Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Araña (Spider Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Pirata (Pirate Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Duende (Pygmy Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Báculo de Desollador (Deadly Sphere Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Latigazo Relámpago (Cool Whip)" },
+                { "tipo": "li", "class": "arma", "contenido": "Latigo de Espina (Spinal Tap)" },
+                { "tipo": "li", "class": "arma", "contenido": "Latigo del Amanecer (Morning Star)" },
+                { "tipo": "li", "class": "arma", "contenido": "Latigo del Terror (Terraprisma)" }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "armas-mago",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armas de Mago"
+            },
+            {
+              "tipo": "ul",
+              "class": "lista-armas",
+              "contenido": [
+                { "tipo": "li", "class": "arma", "contenido": "Varita de Chispas (Wand of Sparking)" },
+                { "tipo": "li", "class": "arma", "contenido": "Varita de Meteoritos (Meteor Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Bastón de Cristal (Crystal Storm)" },
+                { "tipo": "li", "class": "arma", "contenido": "Cetro de Nebulosa (Nebula Arcanum)" },
+                { "tipo": "li", "class": "arma", "contenido": "Cetro de Magma (Inferno Fork)" },
+                { "tipo": "li", "class": "arma", "contenido": "Grimorio Sombrío (Shadowbeam Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Cetro de Luz (Light Disc)" },
+                { "tipo": "li", "class": "arma", "contenido": "Bastón de Llama (Flame Staff)" },
+                { "tipo": "li", "class": "arma", "contenido": "Varita de Agua (Water Bolt)" },
+                { "tipo": "li", "class": "arma", "contenido": "Cetro de Láser (Laser Machinegun)" }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "armas-melee",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armas de Melee"
+            },
+            {
+              "tipo": "ul",
+              "class": "lista-armas",
+              "contenido": [
+                { "tipo": "li", "class": "arma", "contenido": "Espada de Madera (Wooden Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Maza de Cobre (Copper Shortsword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Espada de Cactus (Cactus Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Fiery Greatsword" },
+                { "tipo": "li", "class": "arma", "contenido": "Sable de Cobalto (Cobalt Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Mandoble de Adamantita (Adamantite Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Lanza de Hueso (Bone Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Mandoble de Madera (Greatwood Sword)" },
+                { "tipo": "li", "class": "arma", "contenido": "Cuchilla Sagrada (Excalibur)" },
+                { "tipo": "li", "class": "arma", "contenido": "Mandoble de Calavera (Skull Blade)" }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "armas-rango",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armas de Rango"
+            },
+            {
+              "tipo": "ul",
+              "class": "lista-armas",
+              "contenido": [
+                { "tipo": "li", "class": "arma", "contenido": "Arco de Madera (Wooden Bow)" },
+                { "tipo": "li", "class": "arma", "contenido": "Pistola de Ébano (Phoenix Blaster)" },
+                { "tipo": "li", "class": "arma", "contenido": "Mosquete (Musket)" },
+                { "tipo": "li", "class": "arma", "contenido": "Arco Demoníaco (Demon Bow)" },
+                { "tipo": "li", "class": "arma", "contenido": "Ballesta de Llamas (Hellwing Bow)" },
+                { "tipo": "li", "class": "arma", "contenido": "Arco Cobaltino (Cobalt Repeater)" },
+                { "tipo": "li", "class": "arma", "contenido": "Ballesta de Mitril (Mythril Repeater)" },
+                { "tipo": "li", "class": "arma", "contenido": "Rifle de Francotirador (Sniper Rifle)" },
+                { "tipo": "li", "class": "arma", "contenido": "Lanzador de Granadas (Grenade Launcher)" },
+                { "tipo": "li", "class": "arma", "contenido": "Minishark" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,164 @@
+{
+    "pagina": {
+      "nombre": "Modos de Juego de Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-modos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a los Modos de Juego"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Esta sección presenta los diferentes modos de juego en Terraria, detallando los tipos de mundos y las opciones para crear personajes con diversos niveles de dificultad."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/modes-page/terraria-modes.jpg",
+              "alt": "Imagen que representa los modos de juego"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "modos-mundo",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Modos de Mundo"
+            },
+            {
+              "tipo": "div",
+              "class": "modo-mundo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Normal"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Este es el modo de mundo estándar, recomendado para nuevos jugadores o aquellos que buscan una experiencia equilibrada en Terraria."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "modo-mundo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Experto"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Aumenta la dificultad con enemigos más fuertes y nuevas mecánicas, ofreciendo mayores recompensas al derrotar a los jefes."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "modo-mundo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Maestro"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Este es el modo más difícil, con un gran desafío y recompensas exclusivas para aquellos que se atrevan a enfrentarlo."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "modo-mundo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo de Viaje"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Un modo para jugar de manera relajada, permitiendo ajustar la dificultad, el clima y otros factores en el juego."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "modos-personaje",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Modos de Personaje"
+            },
+            {
+              "tipo": "div",
+              "class": "modo-personaje",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Suave"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El personaje pierde dinero al morir. Es el modo recomendado para principiantes."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "modo-personaje",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Intermedio"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Al morir, el personaje pierde todos los objetos de su inventario. Ideal para quienes desean un mayor reto."
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "modo-personaje",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Modo Extremo"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El personaje muere permanentemente. Recomendado para jugadores avanzados en busca del máximo desafío."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

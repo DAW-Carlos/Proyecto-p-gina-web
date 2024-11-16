@@ -1,0 +1,150 @@
+{
+    "pagina": {
+      "nombre": "Jefes en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "jefes",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Jefes Comunes"
+            },
+            {
+              "tipo": "div",
+              "class": "jefes-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "jefe-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-jefe",
+                      "contenido": "El Ojo de Cthulhu"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-jefe",
+                      "contenido": "El Ojo de Cthulhu es un jefe de tipo invocador que aparece en el mundo de *Terraria*. Es un jefe temprano en el juego, pero muy peligroso si no se está preparado."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-jefe",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Vida: 1,800 (Modo Normal), 4,500 (Modo Experto)." },
+                        { "tipo": "li", "contenido": "Ataque: 30-60 de daño." },
+                        { "tipo": "li", "contenido": "Invocación: Se invoca usando un Ojo Susurrante en la noche." },
+                        { "tipo": "li", "contenido": "Características: Se mueve rápidamente, tiene varias fases y lanza proyectiles." },
+                        { "tipo": "li", "contenido": "Recompensas: Lentes de Cthulhu, Fragmentos de Cthulhu, entre otros." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "jefe-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-jefe",
+                      "contenido": "Skeletron"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-jefe",
+                      "contenido": "Skeletron es un jefe que protege la entrada a la Mazmorras. Es un jefe de dificultad media, pero requiere una buena preparación para enfrentarlo."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-jefe",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Vida: 4,200 (Modo Normal), 8,400 (Modo Experto)." },
+                        { "tipo": "li", "contenido": "Ataque: 50-100 de daño." },
+                        { "tipo": "li", "contenido": "Invocación: Se invoca usando un Hueso de Skeletron en la Mazmorras." },
+                        { "tipo": "li", "contenido": "Características: Tiene dos brazos con ataques giratorios y puede lanzarte proyectiles." },
+                        { "tipo": "li", "contenido": "Recompensas: Lanza huesos, fragmentos y objetos relacionados con la Mazmorras." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "jefe-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-jefe",
+                      "contenido": "La Reina Slime"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-jefe",
+                      "contenido": "La Reina Slime es un jefe que aparece en el bioma de Slime, y es uno de los jefes más llamativos debido a su tamaño y su aspecto de gelatina gigante."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-jefe",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Vida: 6,000 (Modo Normal), 12,000 (Modo Experto)." },
+                        { "tipo": "li", "contenido": "Ataque: 60-120 de daño." },
+                        { "tipo": "li", "contenido": "Invocación: Se invoca con una Corona de Gelatina, que se obtiene de Slimes especiales." },
+                        { "tipo": "li", "contenido": "Características: Lanza gelatina en todas direcciones y se divide en partes más pequeñas al morir." },
+                        { "tipo": "li", "contenido": "Recompensas: Gelatina Real, Fragmentos de Reina Slime." }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "jefes",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Jefes de Difícultad Alta"
+            },
+            {
+              "tipo": "div",
+              "class": "jefes-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "jefe-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-jefe",
+                      "contenido": "El Murciélago del Infierno"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-jefe",
+                      "contenido": "El Murciélago del Infierno es un jefe que aparece en el infierno y representa una de las batallas más difíciles de *Terraria*."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-jefe",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Vida: 10,000 (Modo Normal), 20,000 (Modo Experto)." },
+                        { "tipo": "li", "contenido": "Ataque: 100-150 de daño." },
+                        { "tipo": "li", "contenido": "Invocación: Se invoca usando un Sello Infernal en el Bioma del Infierno." },
+                        { "tipo": "li", "contenido": "Características: Tiene múltiples fases, lanza proyectiles de fuego y puede invocar minions." },
+                        { "tipo": "li", "contenido": "Recompensas: Fragmentos Infernal, armaduras y armas relacionadas." }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

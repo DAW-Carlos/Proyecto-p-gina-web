@@ -1,0 +1,239 @@
+{
+    "pagina": {
+      "nombre": "Armaduras en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "armadura",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armaduras Básicas"
+            },
+            {
+              "tipo": "div",
+              "class": "armadura-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Conjunto de armadura básica hecha con madera. Es la primera armadura que puedes obtener."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de madera: 10 madera" },
+                        { "tipo": "li", "contenido": "Pechera de madera: 30 madera" },
+                        { "tipo": "li", "contenido": "Grebas de madera: 20 madera" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +1 defensa"
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de hierro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Conjunto de armadura hecha de hierro, ideal para las primeras exploraciones del mundo."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de hierro: 20 hierro" },
+                        { "tipo": "li", "contenido": "Pechera de hierro: 50 hierro" },
+                        { "tipo": "li", "contenido": "Grebas de hierro: 40 hierro" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +4 defensa"
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de plata"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Una armadura hecha con plata, con una mayor resistencia que la de hierro."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de plata: 25 plata" },
+                        { "tipo": "li", "contenido": "Pechera de plata: 60 plata" },
+                        { "tipo": "li", "contenido": "Grebas de plata: 50 plata" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +5 defensa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "armadura",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armaduras de Metal Precioso"
+            },
+            {
+              "tipo": "div",
+              "class": "armadura-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de oro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Conjunto de armadura de oro, muy resistente y de alto nivel."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de oro: 30 oro" },
+                        { "tipo": "li", "contenido": "Pechera de oro: 70 oro" },
+                        { "tipo": "li", "contenido": "Grebas de oro: 60 oro" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +7 defensa"
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de platino"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Esta armadura de platino proporciona una alta defensa, ideal para exploradores avanzados."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de platino: 35 platino" },
+                        { "tipo": "li", "contenido": "Pechera de platino: 80 platino" },
+                        { "tipo": "li", "contenido": "Grebas de platino: 70 platino" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +8 defensa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "armadura",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Armaduras de Madera y Cristal"
+            },
+            {
+              "tipo": "div",
+              "class": "armadura-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "armadura-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-armadura",
+                      "contenido": "Armadura de cristal"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-armadura",
+                      "contenido": "Armado con cristal, esta armadura es ligera pero con un gran aumento en el daño."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-armadura",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Casco de cristal: 10 cristal" },
+                        { "tipo": "li", "contenido": "Pechera de cristal: 30 cristal" },
+                        { "tipo": "li", "contenido": "Grebas de cristal: 20 cristal" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-armadura",
+                      "contenido": "Bonificación: +2 defensa, +10% al daño"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

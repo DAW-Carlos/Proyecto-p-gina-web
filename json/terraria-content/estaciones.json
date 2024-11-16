@@ -1,0 +1,194 @@
+{
+    "pagina": {
+      "nombre": "Guía de Estaciones de Trabajo en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-estaciones",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a las Estaciones de Trabajo"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Las estaciones de trabajo en Terraria son objetos que permiten al jugador fabricar una variedad de ítems y equipos. En total, existen múltiples estaciones, cada una con funciones y recetas específicas, esenciales para progresar en el juego y mejorar tu equipo."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/workstation-page/terraria-workstation.jpg",
+              "alt": "Imagen de estaciones de trabajo en Terraria"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "tipos-estaciones",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Tipos de Estaciones de Trabajo"
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Banco de Trabajo"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El banco de trabajo es una estación básica que permite la creación de objetos simples como plataformas, herramientas iniciales y algunos muebles. Es una de las primeras estaciones que cualquier jugador debe construir."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/workbench.jpg",
+                  "alt": "Banco de trabajo en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Horno"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El horno permite fundir minerales en lingotes, que luego pueden usarse para fabricar armas, herramientas y armaduras. Es esencial para avanzar en el juego, ya que es la base para obtener metales refinados."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/furnace.jpg",
+                  "alt": "Horno de fundición en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Yunque"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El yunque es una estación necesaria para fabricar herramientas y armas avanzadas, así como algunas armaduras. Se pueden usar tanto yunques de hierro como de plomo para lograr el mismo propósito."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/anvil.jpg",
+                  "alt": "Yunque en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Mesa de Alquimia"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La mesa de alquimia permite fabricar pociones y otros ítems relacionados con el combate y la supervivencia. Es una estación crucial para los jugadores que desean prepararse antes de enfrentar jefes o explorar áreas peligrosas."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/alchemy-table.jpg",
+                  "alt": "Mesa de alquimia en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Sierra de Carpintero"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La sierra de carpintero permite crear muebles y decoraciones de madera avanzados. Es ideal para aquellos jugadores que disfrutan personalizando sus construcciones con detalles adicionales."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/sawmill.jpg",
+                  "alt": "Sierra de carpintero en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "estacion-trabajo",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Caldero"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El caldero permite fabricar decoraciones y artículos temáticos relacionados con la temporada de Halloween, como muebles espeluznantes y accesorios decorativos."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-estacion",
+                  "src": "../imgs/content/workstation-page/cauldron.jpg",
+                  "alt": "Caldero en Terraria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "utilidad-estaciones",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "¿Para Qué Sirven las Estaciones de Trabajo?"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Las estaciones de trabajo permiten a los jugadores crear una amplia variedad de objetos, desde herramientas y armas hasta decoraciones y muebles. Cada estación es necesaria en diferentes etapas del juego para obtener equipamiento avanzado y continuar progresando."
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Ya sea que estés comenzando o buscando crear objetos más complejos, las estaciones de trabajo son clave para maximizar tus posibilidades de supervivencia y éxito en Terraria."
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

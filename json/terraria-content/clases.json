@@ -1,0 +1,133 @@
+{
+    "pagina": {
+      "nombre": "Clases en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "clases",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Las 4 Clases en Terraria"
+            },
+            {
+              "tipo": "div",
+              "class": "clases-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "clase-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-clase",
+                      "contenido": "Clase Melee"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-clase",
+                      "contenido": "La clase Melee es ideal para jugadores que prefieren el combate cuerpo a cuerpo. Se centra en el uso de armas como espadas, hachas y lanzas, y suele ser muy resistente."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-clase",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Punto fuerte: Gran resistencia y daño cercano." },
+                        { "tipo": "li", "contenido": "Estilo de juego: El jugador se enfrenta a los enemigos directamente, utilizando ataques cuerpo a cuerpo." },
+                        { "tipo": "li", "contenido": "Armas comunes: Espadas, hachas, lanzas." },
+                        { "tipo": "li", "contenido": "Ventajas: Alta defensa, facilidad para recibir daño." },
+                        { "tipo": "li", "contenido": "Desventajas: Menos alcance que las demás clases." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "clase-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-clase",
+                      "contenido": "Clase Rango"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-clase",
+                      "contenido": "La clase Rango es para jugadores que prefieren atacar a sus enemigos desde la distancia. Se especializa en el uso de arcos, ballestas y otras armas a distancia."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-clase",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Punto fuerte: Gran alcance y daño a distancia." },
+                        { "tipo": "li", "contenido": "Estilo de juego: El jugador permanece a distancia de los enemigos y dispara proyectiles." },
+                        { "tipo": "li", "contenido": "Armas comunes: Arcos, ballestas, lanzadores de boomerang." },
+                        { "tipo": "li", "contenido": "Ventajas: Alcance extenso, evasión de daño." },
+                        { "tipo": "li", "contenido": "Desventajas: Vulnerabilidad a los enemigos cercanos." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "clase-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-clase",
+                      "contenido": "Clase Mago"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-clase",
+                      "contenido": "La clase Mago está orientada a los jugadores que prefieren el uso de magia para atacar y defender. Utiliza pociones, bastones y libros para invocar hechizos."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-clase",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Punto fuerte: Poderosos ataques mágicos a larga distancia." },
+                        { "tipo": "li", "contenido": "Estilo de juego: El jugador lanza hechizos de alta potencia, pero requiere gestión de maná." },
+                        { "tipo": "li", "contenido": "Armas comunes: Bastones, libros, pociones mágicas." },
+                        { "tipo": "li", "contenido": "Ventajas: Gran daño a distancia, capacidad de invocar efectos mágicos." },
+                        { "tipo": "li", "contenido": "Desventajas: Bajo aguante físico, gestión de maná." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "clase-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-clase",
+                      "contenido": "Clase Invocador"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-clase",
+                      "contenido": "La clase Invocador se basa en el uso de mascotas y minions para luchar en su lugar. Es ideal para jugadores que prefieren una experiencia más pasiva."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-clase",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Punto fuerte: Puede invocar criaturas que luchan por ti." },
+                        { "tipo": "li", "contenido": "Estilo de juego: El jugador se mantiene atrás mientras las criaturas hacen el trabajo." },
+                        { "tipo": "li", "contenido": "Armas comunes: Bastones de invocación, objetos de invocador." },
+                        { "tipo": "li", "contenido": "Ventajas: Mínima exposición al combate directo, control sobre múltiples minions." },
+                        { "tipo": "li", "contenido": "Desventajas: Bajo daño directo, necesita recursos para invocar criaturas." }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

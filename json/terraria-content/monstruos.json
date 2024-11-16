@@ -1,0 +1,181 @@
+{
+    "pagina": {
+      "nombre": "Monstruos en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "monstruos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Monstruos en Terraria"
+            },
+            {
+              "tipo": "div",
+              "class": "monstruos-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "Slime"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "El Slime es un enemigo común que aparece en la superficie del mundo, generalmente en biomas de superficie."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Baja" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal" },
+                        { "tipo": "li", "contenido": "Modo Hardcore: No aparece" },
+                        { "tipo": "li", "contenido": "Características: Tiene un movimiento lento y poca vida." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "Zombie"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "Los Zombies son enemigos comunes que aparecen durante la noche. Se desplazan lentamente y son relativamente fáciles de derrotar."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Baja" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal" },
+                        { "tipo": "li", "contenido": "Modo Hardcore: No aparece" },
+                        { "tipo": "li", "contenido": "Características: Lento y fácil de derrotar." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "Eye of Cthulhu"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "El Eye of Cthulhu es un jefe que aparece en el modo normal una vez que el jugador tiene suficiente progreso en el juego."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Media" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de cumplir ciertos requisitos." },
+                        { "tipo": "li", "contenido": "Modo Hardcore: No aparece" },
+                        { "tipo": "li", "contenido": "Características: Invoca pequeños ojos y tiene una fase de vuelo." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "Plantera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "Plantera es un jefe que aparece en el bioma de la jungla después de derrotar a ciertos otros jefes."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Alta" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a los jefes anteriores." },
+                        { "tipo": "li", "contenido": "Modo Hardcore: No aparece" },
+                        { "tipo": "li", "contenido": "Características: Tiene una gran cantidad de vida y ataca con tentáculos y flores." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "Moon Lord"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "Moon Lord es el jefe final del juego, que aparece después de derrotar a Plantera y otros jefes predecesores."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Muy alta" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a otros jefes y condiciones." },
+                        { "tipo": "li", "contenido": "Modo Hardcore: Aparece en mundos hardcore." },
+                        { "tipo": "li", "contenido": "Características: Gran resistencia, ataques devastadores y múltiples partes." }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "monstruo-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-monstruo",
+                      "contenido": "The Destroyer"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-monstruo",
+                      "contenido": "The Destroyer es uno de los jefes mecánicos que se encuentran en el modo normal, y es una versión mecanizada del Eater of Worlds."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "detalles-monstruo",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Dificultad: Alta" },
+                        { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a Skeletron." },
+                        { "tipo": "li", "contenido": "Modo Hardcore: Aparece en mundos hardcore." },
+                        { "tipo": "li", "contenido": "Características: Gran resistencia, invoca mini Destroyers que atacan al jugador." }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

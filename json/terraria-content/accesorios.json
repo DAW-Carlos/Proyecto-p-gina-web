@@ -1,0 +1,300 @@
+{
+    "pagina": {
+      "nombre": "Accesorios en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "accesorios",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Accesorios de Movimiento"
+            },
+            {
+              "tipo": "div",
+              "class": "accesorios-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Botas de Hermes"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la velocidad de movimiento al correr."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hechas con cuero y 5 hilos" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +5% de velocidad de movimiento."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Sandalias de Agilidad"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la velocidad de movimiento y permite saltar más alto."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hechas con 10 hilos y 2 hortalizas" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +10% de velocidad de movimiento, +1 salto adicional."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "accesorios",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Accesorios de Defensa"
+            },
+            {
+              "tipo": "div",
+              "class": "accesorios-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Escudo de Cobre"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la defensa del jugador al bloquear ataques."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecho con 20 cobre y 5 madera" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +3 defensa."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Anillo de Defensa"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la defensa general y la regeneración de vida."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecho con 10 hierro y 5 cristales" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +2 defensa, +1 regeneración de vida por segundo."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "accesorios",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Accesorios de Daño"
+            },
+            {
+              "tipo": "div",
+              "class": "accesorios-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Amuleto de la Llama"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta el daño de fuego."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecho con 10 lingotes de fuego y 2 piedras de magma" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +10% de daño de fuego."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Amuleto de Poder"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta el daño de las armas."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecho con 10 oro y 5 cristales rojos" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +15% de daño general."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "accesorios",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Accesorios de Regeneración"
+            },
+            {
+              "tipo": "div",
+              "class": "accesorios-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Cinta de Curación"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la regeneración de vida."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecha con 5 hortalizas y 10 cristal" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +2 de regeneración de vida por segundo."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "accesorio-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-accesorio",
+                      "contenido": "Esfera de Regeneración"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-accesorio",
+                      "contenido": "Aumenta la regeneración de vida cuando se está parado."
+                    },
+                    {
+                      "tipo": "ul",
+                      "class": "componentes-accesorio",
+                      "contenido": [
+                        { "tipo": "li", "contenido": "Hecha con 5 cristales y 3 piedras preciosas" }
+                      ]
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "bonificaciones-accesorio",
+                      "contenido": "Bonificación: +3 de regeneración de vida por segundo cuando está quieto."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

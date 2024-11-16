@@ -1,0 +1,157 @@
+{
+    "pagina": {
+      "nombre": "Logros en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "logros",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Logros en Terraria"
+            },
+            {
+              "tipo": "div",
+              "class": "logros-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/acercamiento.jpg",
+                      "alt": "Acercamiento"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "Acercamiento"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Haz acercado un enemigo por primera vez."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/destructor.jpg",
+                      "alt": "Destructor"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "Destructor"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Derrota al Destructor, uno de los jefes mecánicos."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/el_gran_camino.jpg",
+                      "alt": "El Gran Camino"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "El Gran Camino"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Recorre toda la extensión del mapa de Terraria."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/un_de_contra.jpg",
+                      "alt": "Un de Contra"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "Un de Contra"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Sobrevive una batalla épica en el Modo Hardcore."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/conquistador.jpg",
+                      "alt": "Conquistador"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "Conquistador"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Conquista todos los biomas de Terraria."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "logro-item",
+                  "contenido": [
+                    {
+                      "tipo": "img",
+                      "class": "logro-imagen",
+                      "src": "images/logros/el_fantasma.jpg",
+                      "alt": "El Fantasma"
+                    },
+                    {
+                      "tipo": "h3",
+                      "class": "logro-nombre",
+                      "contenido": "El Fantasma"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "logro-descripcion",
+                      "contenido": "Consigue todos los objetos raros de los eventos especiales."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

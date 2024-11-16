@@ -1,0 +1,283 @@
+{
+    "pagina": {
+      "nombre": "Herramientas en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "herramienta",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Picos"
+            },
+            {
+              "tipo": "div",
+              "class": "herramienta-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Hecho de madera, es la herramienta más básica para excavar."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de piedra"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Hecho de piedra, permite excavar materiales más duros que la madera."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de hierro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Más duradero que el de piedra, es ideal para excavar metales básicos."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de plata"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Permite excavar recursos más raros, como el platino."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de oro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Herramienta poderosa que se utiliza para excavar materiales raros."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de meteorito"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Usado para excavar materiales más raros, como meteoritos y materiales del inframundo."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Pico de tungsteno"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Un pico fuerte para excavar materiales de nivel medio-alto."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "herramienta",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Hachas"
+            },
+            {
+              "tipo": "div",
+              "class": "herramienta-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Hacha de madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Herramienta básica para cortar madera."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Hacha de piedra"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Más resistente que el hacha de madera, útil para cortar más tipos de árboles."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Hacha de hierro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Permite cortar árboles y materiales más duros."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Hacha de plata"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Aumenta la capacidad de cortar árboles raros y metales preciosos."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "herramienta",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Martillos"
+            },
+            {
+              "tipo": "div",
+              "class": "herramienta-lista",
+              "contenido": [
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Martillo de madera"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Herramienta básica para destruir superficies duras."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Martillo de hierro"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Ideal para destruir superficies y muros más resistentes."
+                    }
+                  ]
+                },
+                {
+                  "tipo": "div",
+                  "class": "herramienta-item",
+                  "contenido": [
+                    {
+                      "tipo": "h3",
+                      "class": "nombre-herramienta",
+                      "contenido": "Martillo de tungsteno"
+                    },
+                    {
+                      "tipo": "p",
+                      "class": "descripcion-herramienta",
+                      "contenido": "Utilizado para destruir materiales aún más resistentes, como las paredes del inframundo."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

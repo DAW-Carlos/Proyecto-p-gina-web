@@ -1,0 +1,219 @@
+{
+    "pagina": {
+      "nombre": "Guía de Eventos en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-eventos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a los Eventos en Terraria"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Los eventos en Terraria son desafíos especiales que aparecen en momentos específicos o que pueden ser invocados por el jugador. Durante estos eventos, se generan oleadas de enemigos y, en ocasiones, jefes exclusivos, ofreciendo grandes recompensas pero también un alto nivel de dificultad."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/events-page/terraria-events.jpg",
+              "alt": "Imagen de eventos en Terraria"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "tipos-eventos",
+          "contenido": [
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Luna Sangrienta"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La Luna Sangrienta es un evento nocturno que ocurre al azar o puede ser invocado usando un Ídolo de la Luna. Durante este evento, los enemigos son más fuertes y algunos NPCs se comportan de manera diferente."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Este evento incluye enemigos como Zombis de Luna Sangrienta, Conejos Poseídos y Pez de Ojo de Demonio. No hay un jefe específico en este evento."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/blood-moon.jpg",
+                  "alt": "Imagen de la Luna Sangrienta en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Invasión Goblin"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La Invasión Goblin puede ocurrir aleatoriamente o ser invocada con el Estandarte de Invocación Goblin. Es un evento en el que aparecen hordas de goblins atacando al jugador y sus construcciones."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Este evento incluye enemigos como el Guerrero Goblin, el Invocador Goblin y el Ladrón Goblin. Al finalizar todas las oleadas, no aparece un jefe específico, pero se puede acceder a la Tinkerer Goblin, un NPC útil."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/goblin-invasion.jpg",
+                  "alt": "Imagen de la Invasión Goblin en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Eclipse Solar"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El Eclipse Solar es un evento que puede ocurrir durante el día después de derrotar a todos los jefes mecánicos, o se puede invocar con un Fragmento Solar. Este evento trae enemigos inspirados en monstruos de películas clásicas de terror."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Incluye enemigos como el Frankenstein, Vampiro, y el Hombre del Pantano. Los mini-jefes Mothron y el Hombre Invisible también aparecen en este evento, ofreciendo recompensas exclusivas."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/solar-eclipse.jpg",
+                  "alt": "Imagen del Eclipse Solar en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Luna de Calabazas"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La Luna de Calabazas es un evento de Halloween que puede ser invocado usando una Medalla de Calabaza. Se compone de oleadas de enemigos y culmina en una lucha contra jefes especiales."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Este evento incluye enemigos como el Espantapájaros, el Cuervo y el Espectro. Los jefes de este evento son el Rey Calabaza y el Árbol de la Matanza."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/pumpkin-moon.jpg",
+                  "alt": "Imagen de la Luna de Calabazas en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Luna Helada"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La Luna Helada es un evento invernal que puede ser invocado usando una Medalla Helada. Similar a la Luna de Calabazas, se compone de oleadas de enemigos con temática navideña y jefes únicos."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Los enemigos incluyen el Duende de Navidad, el Bombardino y el Copo de Nieve. Los jefes principales son el Santa-NK1, el Hielo Reina y el Duque Festivo."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/frost-moon.jpg",
+                  "alt": "Imagen de la Luna Helada en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "evento",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Ejército Marciano"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El Ejército Marciano es un evento de invasión que se puede activar usando una Sonda Marciana. Este evento trae enemigos y un jefe inspirados en tecnología alienígena avanzada."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos como el Rayomático, el Laseriano y el Zancudo Marciano aparecerán en este evento, y el jefe final es el OVNI Marciano, que ofrece recompensas valiosas al derrotarlo."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-evento",
+                  "src": "../imgs/content/events-page/martian-madness.jpg",
+                  "alt": "Imagen del Ejército Marciano en Terraria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "explicacion-eventos",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "¿Para Qué Sirven los Eventos?"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Los eventos en Terraria proporcionan a los jugadores la oportunidad de obtener recompensas exclusivas y enfrentarse a desafíos únicos. Son ideales para aquellos que buscan mejorar su equipo, adquirir trofeos o probar sus habilidades en combate."
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "Cada evento ofrece una experiencia única con enemigos y jefes exclusivos, así como artículos raros que solo pueden conseguirse en estos eventos."
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,259 @@
+{
+    "pagina": {
+      "nombre": "Guía de Biomas en Terraria",
+      "contenido": [
+        {
+          "tipo": "section",
+          "class": "introduccion-biomas",
+          "contenido": [
+            {
+              "tipo": "h2",
+              "class": "titulo",
+              "contenido": "Introducción a los Biomas en Terraria"
+            },
+            {
+              "tipo": "p",
+              "class": "texto",
+              "contenido": "En Terraria, los biomas son áreas del mundo con características específicas, incluyendo tipos de terreno, clima, y enemigos. Cada bioma ofrece diferentes recursos y desafíos únicos para el jugador."
+            },
+            {
+              "tipo": "img",
+              "class": "imagen-banner",
+              "src": "../imgs/content/biomes-page/terraria-biomes.jpg",
+              "alt": "Imagen de biomas en Terraria"
+            }
+          ]
+        },
+        {
+          "tipo": "section",
+          "class": "tipos-biomas",
+          "contenido": [
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Bosque"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El bosque es el bioma inicial y más común en Terraria. Aquí el jugador comienza su aventura, y es conocido por su terreno cubierto de árboles y su vida salvaje moderada."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Zombi, Babosa Verde, y Ojo de Demonio (durante la noche)."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Madera, Gel de Babosa y ciertos tipos de hierbas."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/forest.jpg",
+                  "alt": "Imagen del bioma bosque en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Desierto"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El desierto es un bioma árido con grandes dunas de arena. Durante el día, el calor es intenso, y se pueden encontrar cactus y enemigos desérticos."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Hormiga león, Buitre y Babosa de Arena."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Arena, Cactus y el raro Fósil del Desierto."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/desert.jpg",
+                  "alt": "Imagen del bioma desierto en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "Nevado"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El bioma nevado está cubierto de nieve y hielo. Aquí, los enemigos se adaptan al frío extremo, y la música cambia para reflejar el ambiente helado."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Zombi de Nieve, Pingüino y Babosa de Hielo."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Nieve, Hielo y el raro Fragmento de Hielo."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/snow.jpg",
+                  "alt": "Imagen del bioma nevado en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "La Corrupción"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La Corrupción es un bioma oscuro y peligroso lleno de criaturas hostiles. Está marcado por el color púrpura y se expande lentamente, infectando otros biomas."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Devorador de Almas, Devorador de Mundos y Babosa Morada."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Piedra de ébano, Fragmento Podrido y el Orbe de Sombra."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/corruption.jpg",
+                  "alt": "Imagen del bioma Corrupción en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "El Carmesí"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El Carmesí es un bioma alternativo a la Corrupción, caracterizado por tonos rojos y criaturas de aspecto grotesco. Al igual que la Corrupción, el Carmesí también se expande."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Carroñero Carmesí, Babosa Carmesí y el Cerebro de Cthulhu."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Piedra Carmesí, Tejido Sangriento y el Corazón Carmesí."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/crimson.jpg",
+                  "alt": "Imagen del bioma Carmesí en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "El Inframundo"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "El Inframundo es el bioma más peligroso y se encuentra en las profundidades del mundo. Lleno de lava y peligros, es el hogar de enemigos y el jefe final del modo normal, el Muro de Carne."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Murciélago de Lava, Demonio y Serpiente de Fuego."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Piedra Infernal, Obsidiana y los fragmentos del Muro de Carne."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/underworld.jpg",
+                  "alt": "Imagen del bioma Inframundo en Terraria"
+                }
+              ]
+            },
+            {
+              "tipo": "div",
+              "class": "bioma",
+              "contenido": [
+                {
+                  "tipo": "h3",
+                  "class": "subtitulo",
+                  "contenido": "La Selva"
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "La selva es un bioma lleno de vegetación, vida salvaje y peligros. Se encuentra en la superficie y en sus cavernas, con enemigos más fuertes a medida que el jugador se adentra en ella."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Enemigos: Murciélago de la Selva, Abeja Gigante y Avispa."
+                },
+                {
+                  "tipo": "p",
+                  "class": "texto",
+                  "contenido": "Materiales exclusivos: Colmena, Panal, y el raro Capullo de Abeja."
+                },
+                {
+                  "tipo": "img",
+                  "class": "imagen-bioma",
+                  "src": "../imgs/content/biomes-page/jungle.jpg",
+                  "alt": "Imagen del bioma Selva en Terraria"
+                }
+              ]
+            }
+          ]
+        }
+        ]
+    }
+}
