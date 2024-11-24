@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "introduccion-biomas",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -19,18 +19,18 @@
             {
               "tipo": "img",
               "class": "imagen-banner",
-              "src": "../imgs/content/biomes-page/terraria-biomes.jpg",
+              "src": "../imgs/content/biomes-page/terraria-biomes.png",
               "alt": "Imagen de biomas en Terraria"
             }
           ]
         },
         {
           "tipo": "section",
-          "class": "tipos-biomas",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -62,7 +62,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -94,7 +94,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -126,7 +126,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -158,7 +158,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -190,7 +190,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -222,7 +222,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",

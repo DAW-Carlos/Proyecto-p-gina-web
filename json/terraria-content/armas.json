@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "armas-invocador",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -31,7 +31,7 @@
         },
         {
           "tipo": "section",
-          "class": "armas-mago",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -58,7 +58,7 @@
         },
         {
           "tipo": "section",
-          "class": "armas-melee",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -85,7 +85,7 @@
         },
         {
           "tipo": "section",
-          "class": "armas-rango",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",

@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "introduccion-pesca",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -26,7 +26,7 @@
         },
         {
           "tipo": "section",
-          "class": "biomas-pesca",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -35,7 +35,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma-pesca",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -51,7 +51,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma-pesca",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -67,7 +67,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma-pesca",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -83,7 +83,7 @@
             },
             {
               "tipo": "div",
-              "class": "bioma-pesca",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -101,7 +101,7 @@
         },
         {
           "tipo": "section",
-          "class": "equipo-pesca",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -110,7 +110,7 @@
             },
             {
               "tipo": "div",
-              "class": "equipo-item",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -126,7 +126,7 @@
             },
             {
               "tipo": "div",
-              "class": "equipo-item",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -142,7 +142,7 @@
             },
             {
               "tipo": "div",
-              "class": "equipo-item",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -160,7 +160,7 @@
         },
         {
           "tipo": "section",
-          "class": "recompensas-pesca",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -169,7 +169,7 @@
             },
             {
               "tipo": "div",
-              "class": "recompensa",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -185,7 +185,7 @@
             },
             {
               "tipo": "div",
-              "class": "recompensa",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -201,7 +201,7 @@
             },
             {
               "tipo": "div",
-              "class": "recompensa",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",

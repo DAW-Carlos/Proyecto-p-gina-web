@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "monstruos",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -13,11 +13,11 @@
             },
             {
               "tipo": "div",
-              "class": "monstruos-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -31,7 +31,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Baja" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal" },
@@ -43,7 +43,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -57,7 +57,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Baja" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal" },
@@ -69,7 +69,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -83,7 +83,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Media" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de cumplir ciertos requisitos." },
@@ -95,7 +95,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -109,7 +109,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Alta" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a los jefes anteriores." },
@@ -121,7 +121,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -135,7 +135,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Muy alta" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a otros jefes y condiciones." },
@@ -147,7 +147,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "monstruo-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -161,7 +161,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-monstruo",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Dificultad: Alta" },
                         { "tipo": "li", "contenido": "Aparece en: Mundo normal, después de derrotar a Skeletron." },

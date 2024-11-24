@@ -1,157 +1,158 @@
 {
-    "pagina": {
-      "nombre": "Logros en Terraria",
-      "contenido": [
-        {
-          "tipo": "section",
-          "class": "logros",
-          "contenido": [
-            {
-              "tipo": "h2",
-              "class": "titulo",
-              "contenido": "Logros en Terraria"
-            },
-            {
-              "tipo": "div",
-              "class": "logros-lista",
-              "contenido": [
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/acercamiento.jpg",
-                      "alt": "Acercamiento"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "Acercamiento"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Haz acercado un enemigo por primera vez."
-                    }
-                  ]
-                },
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/destructor.jpg",
-                      "alt": "Destructor"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "Destructor"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Derrota al Destructor, uno de los jefes mecánicos."
-                    }
-                  ]
-                },
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/el_gran_camino.jpg",
-                      "alt": "El Gran Camino"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "El Gran Camino"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Recorre toda la extensión del mapa de Terraria."
-                    }
-                  ]
-                },
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/un_de_contra.jpg",
-                      "alt": "Un de Contra"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "Un de Contra"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Sobrevive una batalla épica en el Modo Hardcore."
-                    }
-                  ]
-                },
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/conquistador.jpg",
-                      "alt": "Conquistador"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "Conquistador"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Conquista todos los biomas de Terraria."
-                    }
-                  ]
-                },
-                {
-                  "tipo": "div",
-                  "class": "logro-item",
-                  "contenido": [
-                    {
-                      "tipo": "img",
-                      "class": "logro-imagen",
-                      "src": "images/logros/el_fantasma.jpg",
-                      "alt": "El Fantasma"
-                    },
-                    {
-                      "tipo": "h3",
-                      "class": "logro-nombre",
-                      "contenido": "El Fantasma"
-                    },
-                    {
-                      "tipo": "p",
-                      "class": "logro-descripcion",
-                      "contenido": "Consigue todos los objetos raros de los eventos especiales."
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
+  "pagina": {
+    "nombre": "Logros en Terraria",
+    "contenido": [
+      {
+        "tipo": "section",
+        "class": "introduccion",
+        "contenido": [
+          {
+            "tipo": "h2",
+            "class": "text-box",
+            "contenido": "Logros en Terraria"
+          },
+          {
+            "tipo": "div",
+            "class": "content-section",
+            "contenido": [
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "No Hobo"
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/no_hobo.jpg",
+                    "alt": "No hobo"
+                  },
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Construye una casa apta para que se mude tu primer PNJ, como puede ser el guía."
+                  }
+                ]
+              },
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "Mastermind"
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/mastermind.jpg",
+                    "alt": "Mastermind"
+                  },
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Derrota al Cerebro de Cthulhu, un gigantesco cerebro demoníaco enorme que acecha en el carmesí."
+                  }
+                ]
+              },
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "Still Hungry"
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/still_hungry.jpg",
+                    "alt": "Still Hungry"
+                  },
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Derrota al muro carnoso, maestro y núcleo del mundo que surge tras un gran sacrificio ardiente."
+                  }
+                ]
+              },
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "Get a Life"
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/get_a_life.jpg",
+                    "alt": "Get a Life"
+                  },
+
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Consume una fruta de la vida, que se producen en la hierba de la selva subterránea."
+                  }
+                ]
+              },
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "Fish Out the Water"
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/fish_out_the_water.jpg",
+                    "alt": "Fish Out the Water"
+                  },
+
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Derrota al Duque Fishron, el terror mutante de los mares."
+                  }
+                ]
+              },
+              {
+                "tipo": "div",
+                "class": "image-with-text",
+                "contenido": [
+                  {
+                    "tipo": "h3",
+                    "class": "titulo",
+                    "contenido": "There are Some Who Call Him..."
+                  },
+                  {
+                    "tipo": "img",
+                    "class": "image-box",
+                    "src": "../imgs/content/logros-page/there_are_some_who_call_him.jpg",
+                    "alt": "There are Some Who Call Him..."
+                  },
+                  {
+                    "tipo": "p",
+                    "class": "terraria-content",
+                    "contenido": "Mata a Tim."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
-  
+}

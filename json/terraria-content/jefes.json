@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "jefes",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -13,11 +13,11 @@
             },
             {
               "tipo": "div",
-              "class": "jefes-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "jefe-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -31,7 +31,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-jefe",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Vida: 1,800 (Modo Normal), 4,500 (Modo Experto)." },
                         { "tipo": "li", "contenido": "Ataque: 30-60 de daño." },
@@ -44,7 +44,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "jefe-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -58,7 +58,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-jefe",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Vida: 4,200 (Modo Normal), 8,400 (Modo Experto)." },
                         { "tipo": "li", "contenido": "Ataque: 50-100 de daño." },
@@ -71,7 +71,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "jefe-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -85,7 +85,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-jefe",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Vida: 6,000 (Modo Normal), 12,000 (Modo Experto)." },
                         { "tipo": "li", "contenido": "Ataque: 60-120 de daño." },
@@ -102,7 +102,7 @@
         },
         {
           "tipo": "section",
-          "class": "jefes",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -111,11 +111,11 @@
             },
             {
               "tipo": "div",
-              "class": "jefes-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "jefe-item",
+                  "class": "lista-div lista-div-trajes",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -129,7 +129,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "detalles-jefe",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Vida: 10,000 (Modo Normal), 20,000 (Modo Experto)." },
                         { "tipo": "li", "contenido": "Ataque: 100-150 de daño." },

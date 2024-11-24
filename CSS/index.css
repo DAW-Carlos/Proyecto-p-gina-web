@@ -1,5 +1,4 @@
 
-/* Main content */
 main {
     display: flex;
     flex-direction: column;
@@ -8,7 +7,6 @@ main {
     background-color: rgb(1, 6, 108, 0.85);
 }
 
-/* Intro section */
 .intro {
     text-align: center;
 }
@@ -24,7 +22,6 @@ main {
     border-radius: 8px;
 }
 
-/* Estilos para main-content con apariencia de tarjetas */
 .main-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));

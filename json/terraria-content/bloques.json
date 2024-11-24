@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "bloques",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -13,11 +13,11 @@
             },
             {
               "tipo": "div",
-              "class": "bloques-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -31,7 +31,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Se obtiene talando árboles." }
                       ]
@@ -45,7 +45,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -59,7 +59,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Se obtiene rompiendo rocas o usando una picota." }
                       ]
@@ -73,7 +73,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -87,7 +87,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Se obtiene de los biomas subterráneos, especialmente en las zonas de pantano." }
                       ]
@@ -105,7 +105,7 @@
         },
         {
           "tipo": "section",
-          "class": "bloques",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -114,11 +114,11 @@
             },
             {
               "tipo": "div",
-              "class": "bloques-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -132,7 +132,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Se obtiene combinando 3 piedras en la mesa de trabajo." }
                       ]
@@ -146,7 +146,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -160,7 +160,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecho con 4 piezas de madera." }
                       ]
@@ -174,7 +174,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "bloque-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -188,7 +188,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-bloque",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Se obtiene cavando en áreas de arena." }
                       ]

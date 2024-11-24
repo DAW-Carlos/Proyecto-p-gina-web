@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "armadura",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -13,11 +13,11 @@
             },
             {
               "tipo": "div",
-              "class": "armadura-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -31,7 +31,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de madera: 10 madera" },
                         { "tipo": "li", "contenido": "Pechera de madera: 30 madera" },
@@ -47,7 +47,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -61,7 +61,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de hierro: 20 hierro" },
                         { "tipo": "li", "contenido": "Pechera de hierro: 50 hierro" },
@@ -77,7 +77,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -91,7 +91,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de plata: 25 plata" },
                         { "tipo": "li", "contenido": "Pechera de plata: 60 plata" },
@@ -111,7 +111,7 @@
         },
         {
           "tipo": "section",
-          "class": "armadura",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -120,11 +120,11 @@
             },
             {
               "tipo": "div",
-              "class": "armadura-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -138,7 +138,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de oro: 30 oro" },
                         { "tipo": "li", "contenido": "Pechera de oro: 70 oro" },
@@ -154,7 +154,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -168,7 +168,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de platino: 35 platino" },
                         { "tipo": "li", "contenido": "Pechera de platino: 80 platino" },
@@ -188,7 +188,7 @@
         },
         {
           "tipo": "section",
-          "class": "armadura",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -197,11 +197,11 @@
             },
             {
               "tipo": "div",
-              "class": "armadura-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "armadura-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -215,7 +215,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-armadura",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Casco de cristal: 10 cristal" },
                         { "tipo": "li", "contenido": "Pechera de cristal: 30 cristal" },

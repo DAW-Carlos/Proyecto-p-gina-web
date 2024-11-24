@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "introduccion-npcs",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -26,7 +26,7 @@
         },
         {
           "tipo": "section",
-          "class": "lista-npcs",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "div",
@@ -65,17 +65,9 @@
                   ]
                 },
                 {
-                  "tipo": "ul",
-                  "class": "servicios",
-                  "contenido": [
-                    { "tipo": "li", "contenido": "Asesoramiento sobre recetas." },
-                    { "tipo": "li", "contenido": "Información sobre jefes y enemigos." }
-                  ]
-                },
-                {
                   "tipo": "img",
                   "class": "imagen-npc",
-                  "src": "../imgs/content/npcs-page/guide.jpg",
+                  "src": "../imgs/content/npcs-page/guide.png",
                   "alt": "Imagen del NPC Guía"
                 }
               ]
@@ -117,17 +109,9 @@
                   ]
                 },
                 {
-                  "tipo": "ul",
-                  "class": "servicios",
-                  "contenido": [
-                    { "tipo": "li", "contenido": "Venta de artículos básicos y suministros iniciales." },
-                    { "tipo": "li", "contenido": "Compra de objetos al jugador para obtener monedas." }
-                  ]
-                },
-                {
                   "tipo": "img",
                   "class": "imagen-npc",
-                  "src": "../imgs/content/npcs-page/merchant.jpg",
+                  "src": "../imgs/content/npcs-page/merchant.webp",
                   "alt": "Imagen del NPC Comerciante"
                 }
               ]
@@ -169,17 +153,9 @@
                   ]
                 },
                 {
-                  "tipo": "ul",
-                  "class": "servicios",
-                  "contenido": [
-                    { "tipo": "li", "contenido": "Cura al jugador a cambio de monedas." },
-                    { "tipo": "li", "contenido": "Elimina efectos negativos (como envenenamiento)." }
-                  ]
-                },
-                {
                   "tipo": "img",
                   "class": "imagen-npc",
-                  "src": "../imgs/content/npcs-page/nurse.jpg",
+                  "src": "../imgs/content/npcs-page/nurse.webp",
                   "alt": "Imagen del NPC Enfermera"
                 }
               ]
@@ -221,17 +197,9 @@
                   ]
                 },
                 {
-                  "tipo": "ul",
-                  "class": "servicios",
-                  "contenido": [
-                    { "tipo": "li", "contenido": "Venta de explosivos para minería y combate." },
-                    { "tipo": "li", "contenido": "Ofrece bombas, dinamitas y granadas." }
-                  ]
-                },
-                {
                   "tipo": "img",
                   "class": "imagen-npc",
-                  "src": "../imgs/content/npcs-page/demolitionist.jpg",
+                  "src": "../imgs/content/npcs-page/demolitionist.webp",
                   "alt": "Imagen del NPC Demolicionista"
                 }
               ]
@@ -273,17 +241,9 @@
                   ]
                 },
                 {
-                  "tipo": "ul",
-                  "class": "servicios",
-                  "contenido": [
-                    { "tipo": "li", "contenido": "Venta de armas de fuego y municiones." },
-                    { "tipo": "li", "contenido": "Ofrece armas como pistolas y balas." }
-                  ]
-                },
-                {
                   "tipo": "img",
                   "class": "imagen-npc",
-                  "src": "../imgs/content/npcs-page/arms-dealer.jpg",
+                  "src": "../imgs/content/npcs-page/arms-dealer.webp",
                   "alt": "Imagen del NPC Armero"
                 }
               ]

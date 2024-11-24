@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "introduccion-estaciones",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -26,7 +26,7 @@
         },
         {
           "tipo": "section",
-          "class": "tipos-estaciones",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",
@@ -35,7 +35,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -57,7 +57,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -79,7 +79,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -101,7 +101,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -123,7 +123,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -145,7 +145,7 @@
             },
             {
               "tipo": "div",
-              "class": "estacion-trabajo",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -169,7 +169,7 @@
         },
         {
           "tipo": "section",
-          "class": "utilidad-estaciones",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",

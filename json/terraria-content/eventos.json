@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "introduccion-eventos",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -26,11 +26,11 @@
         },
         {
           "tipo": "section",
-          "class": "tipos-eventos",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -57,7 +57,7 @@
             },
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -84,7 +84,7 @@
             },
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -111,7 +111,7 @@
             },
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -138,7 +138,7 @@
             },
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -165,7 +165,7 @@
             },
             {
               "tipo": "div",
-              "class": "evento",
+              "class": "categoria",
               "contenido": [
                 {
                   "tipo": "h3",
@@ -194,7 +194,7 @@
         },
         {
           "tipo": "section",
-          "class": "explicacion-eventos",
+          "class": "content-section",
           "contenido": [
             {
               "tipo": "h2",

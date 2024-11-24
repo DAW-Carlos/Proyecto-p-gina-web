@@ -4,7 +4,7 @@
       "contenido": [
         {
           "tipo": "section",
-          "class": "accesorios",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -13,11 +13,11 @@
             },
             {
               "tipo": "div",
-              "class": "accesorios-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -31,7 +31,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hechas con cuero y 5 hilos" }
                       ]
@@ -45,7 +45,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -59,7 +59,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hechas con 10 hilos y 2 hortalizas" }
                       ]
@@ -77,7 +77,7 @@
         },
         {
           "tipo": "section",
-          "class": "accesorios",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -86,11 +86,11 @@
             },
             {
               "tipo": "div",
-              "class": "accesorios-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -104,7 +104,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecho con 20 cobre y 5 madera" }
                       ]
@@ -118,7 +118,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -132,7 +132,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecho con 10 hierro y 5 cristales" }
                       ]
@@ -150,7 +150,7 @@
         },
         {
           "tipo": "section",
-          "class": "accesorios",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -159,11 +159,11 @@
             },
             {
               "tipo": "div",
-              "class": "accesorios-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -177,7 +177,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecho con 10 lingotes de fuego y 2 piedras de magma" }
                       ]
@@ -191,7 +191,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -205,7 +205,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecho con 10 oro y 5 cristales rojos" }
                       ]
@@ -223,7 +223,7 @@
         },
         {
           "tipo": "section",
-          "class": "accesorios",
+          "class": "introduccion",
           "contenido": [
             {
               "tipo": "h2",
@@ -232,11 +232,11 @@
             },
             {
               "tipo": "div",
-              "class": "accesorios-lista",
+              "class": "content-section",
               "contenido": [
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -250,7 +250,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecha con 5 hortalizas y 10 cristal" }
                       ]
@@ -264,7 +264,7 @@
                 },
                 {
                   "tipo": "div",
-                  "class": "accesorio-item",
+                  "class": "lista-div-bloque",
                   "contenido": [
                     {
                       "tipo": "h3",
@@ -278,7 +278,7 @@
                     },
                     {
                       "tipo": "ul",
-                      "class": "componentes-accesorio",
+                      "class": "lista-ul",
                       "contenido": [
                         { "tipo": "li", "contenido": "Hecha con 5 cristales y 3 piedras preciosas" }
                       ]
