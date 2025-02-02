@@ -6,80 +6,103 @@
     <title>Document</title>
     <link rel="stylesheet" href="../CSS/styles.css">
     <link rel="icon" href="../imgs/icono.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">
-        <header>
-            <img src="../imgs/icon.png" alt="Icono Terraria" class="icon">
-            <h1>Terraria Wiki</h1>
-            <nav class="menu">
-                <ul>
-                    <li>
-                        <a href="#">Básicos</a>
-                        <ul>
-                            <li><a href="#" ruta="../json/terraria-content/guia.json">Guías</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/modos.json">Modos</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/biomas.json">Biomas</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/estaciones.json">Estaciones</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/npcs.json">NPCs</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/pesca.json">Pesca</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Progresión</a>
-                        <ul>
-                            <li><a href="#" ruta="../json/terraria-content/clases.json">Clases</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/jefes.json">Jefes</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/monstruos.json">Monstruos</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/logros.json">Logros</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/eventos.json">Eventos</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Equipamiento</a>
-                        <ul>
-                            <li><a href="#" ruta="../json/terraria-content/armas.json">Armas</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/herramientas.json">Herramientas</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/armaduras.json">Armaduras</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/accesorios.json">Accesorios</a></li>
-                            <li><a href="#" ruta="../json/terraria-content/trajes.json">Trajes</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Recursos</a>
-                        <ul>
-                            <li><a href="#" ruta="../json/terraria-content/bloques.json">Bloques</a></li>
-                            <li><a href="#" ruta="../json/more-content/objetos.json">Objetos</a></li>
-                            <li><a href="#" ruta="../json/more-content/inobtenibles.json">Inobtenibles</a></li>
-                            <li><a href="#" ruta="../json/more-content/lingotes.json">Lingotes</a></li>
-                            <li><a href="#" ruta="../json/more-content/minerales.json">Minerales</a></li>
-                            <li><a href="#" ruta="../json/more-content/tesoros.json">Tesoros</a></li>
-                            <li><a href="#" ruta="../json/more-content/decoraciones.json">Decoraciones</a></li>
-                            <li><a href="#" ruta="../json/more-content/mecanismos.json">Mecanismos</a></li>
-                            <li><a href="#" ruta="../json/more-content/ganchos.json">Ganchos</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Consumibles</a>
-                        <ul>
-                            <li><a href="#" ruta="../json/more-content/pociones.json">Pociones</a></li>
-                            <li><a href="#" ruta="../json/more-content/buffs.json">Buffs</a></li>
-                            <li><a href="#" ruta="../json/more-content/debuffs.json">Debuffs</a></li>
-                            <li><a href="#" ruta="../json/more-content/municiones.json">Municiones</a></li>
-                            <li><a href="#" ruta="../json/more-content/llaves.json">Llaves</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </nav>            
-            <button class="search-button">Buscar</button>
-            <input type="text" placeholder="Search..." class="search">
-        </header> 
+        <header class="d-flex flex-wrap align-items-center justify-content-between py-3">
+            <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+                <img src="../imgs/icon.png" alt="Icono Terraria" class="icon me-2">
+                <h1 class="h4 mb-0">Terraria Wiki</h1>
+            </a>
+
+            <nav class=" navbar navbar-expand-lg menu">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBasicos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Básicos
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownBasicos">
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/guia.json">Guías</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/modos.json">Modos</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/biomas.json">Biomas</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/estaciones.json">Estaciones</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/npcs.json">NPCs</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/pesca.json">Pesca</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownProgresion" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Progresión
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownProgresion">
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/clases.json">Clases</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/jefes.json">Jefes</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/monstruos.json">Monstruos</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/logros.json">Logros</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/eventos.json">Eventos</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownEquipamiento" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Equipamiento
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownEquipamiento">
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/armas.json">Armas</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/herramientas.json">Herramientas</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/armaduras.json">Armaduras</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/accesorios.json">Accesorios</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/trajes.json">Trajes</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownRecursos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Recursos
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownRecursos">
+                                <li><a class="dropdown-item" href="#" ruta="../json/terraria-content/bloques.json">Bloques</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/objetos.json">Objetos</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/inobtenibles.json">Inobtenibles</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/lingotes.json">Lingotes</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/minerales.json">Minerales</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/tesoros.json">Tesoros</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/decoraciones.json">Decoraciones</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/mecanismos.json">Mecanismos</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/ganchos.json">Ganchos</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownConsumibles" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Consumibles
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownConsumibles">
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/pociones.json">Pociones</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/buffs.json">Buffs</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/debuffs.json">Debuffs</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/municiones.json">Municiones</a></li>
+                                <li><a class="dropdown-item" href="#" ruta="../json/more-content/llaves.json">Llaves</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search..." aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+        </header>
         <div id="contenido">
         </div> 
     </div>
 </body>
 <script src="../js/buildPage.js"></script>
 <script src="../js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <footer>
     <p>&copy; 2024 Terraria Fansite. Todos los derechos reservados.</p>
     <div class="social-media">
@@ -89,4 +112,11 @@
         <a href="#" target="_blank"><img src="icono_youtube.png" alt="YouTube"></a>
     </div>
 </footer>
+<audio id="background-music" autoplay loop>
+    <source src="../musica/OverworldDay.mp3" type="audio/mp3">
+    Tu navegador no soporta el elemento de audio.
+</audio>
+<script>
+    document.getElementById('background-music').volume = 0.05;
+</script>
 </html>

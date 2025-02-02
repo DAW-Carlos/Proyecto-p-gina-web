@@ -17,10 +17,20 @@
               "contenido": "La pesca es una mecánica de Terraria que permite obtener peces, cofres y objetos especiales. Aquí aprenderás dónde y cómo pescar, qué equipo utilizar y las recompensas que puedes obtener en cada bioma."
             },
             {
-              "tipo": "img",
-              "class": "imagen-banner",
-              "src": "../imgs/content/fishing-page/terraria-fishing.jpg",
-              "alt": "Imagen de pesca en Terraria"
+              "tipo": "div",
+              "class": "video-container",
+              "contenido": [
+                {
+                  "tipo": "iframe",
+                  "class": "video",
+                  "src": "https://www.youtube.com/embed/Rc4lsX49eVM",
+                  "frameborder": "0",
+                  "allow": "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+                  "allowfullscreen": true,
+                  "width": "560",
+                  "height": "315"
+                }                                
+              ]
             }
           ]
         },

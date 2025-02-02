@@ -31,32 +31,32 @@ main {
     padding-right: 20px;
 }
 
-.main-content .card {
-    background-color: rgba(0, 0, 0, 0.3);
+.main-content .cardM {
+    background-color: rgba(0, 0, 0, 0.3) !important;
     border: 2px solid rgba(255, 255, 255, 0.1);
     border-radius: 8px;
     padding: 20px;
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.main-content .card:hover {
+.main-content .cardM:hover {
     transform: translateY(-5px);
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
 }
 
-.main-content .card h3 {
+.main-content .cardM h3 {
     font-size: 20px;
     color: #00FF00;
     margin-bottom: 10px;
 }
 
-.main-content .card p {
+.main-content .cardM p {
     font-size: 16px;
     color: white;
     line-height: 1.5;
 }
 
-.main-content .card img {
+.main-content .cardM img {
     max-width: 100%;
     border-radius: 5px;
     margin-bottom: 15px;
